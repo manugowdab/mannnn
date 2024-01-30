@@ -1,0 +1,45 @@
+body{
+    background-image: url(backgroud.jpg);
+}
+.field{
+    background-color: rgb(248, 243, 237);
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-radius: 20px ;
+   
+}
+.field legend{
+    text-shadow: 2px 2px 2px gray;
+}
+#one{
+    padding-left: 130px;
+
+}
+#one input{
+    
+    width: 350px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 5px gray;
+    
+}
+.checkbox{
+   font-size: 20px; 
+}
+.button{
+    
+    padding-left: 200px;
+
+}
+button{
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(150, 150, 245);
+    box-shadow: 20px 20px 5px gray;
+}
+
